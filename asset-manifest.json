@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AddExpenses/static/css/main.aa4b71d1.css",
+    "main.js": "/AddExpenses/static/js/main.ea7bfbed.js",
+    "index.html": "/AddExpenses/index.html",
+    "main.aa4b71d1.css.map": "/AddExpenses/static/css/main.aa4b71d1.css.map",
+    "main.ea7bfbed.js.map": "/AddExpenses/static/js/main.ea7bfbed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4b71d1.css",
+    "static/js/main.ea7bfbed.js"
+  ]
+}
